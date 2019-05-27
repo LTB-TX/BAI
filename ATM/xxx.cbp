@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="xxx" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/xxx" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/xxx" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Insert.cpp" />
+		<Unit filename="Login.cpp" />
+		<Unit filename="Management.cpp" />
+		<Unit filename="Modify.cpp" />
+		<Unit filename="P_input.cpp" />
+		<Unit filename="Service.cpp" />
+		<Unit filename="User_pudlic.cpp" />
+		<Unit filename="bill.cpp" />
+		<Unit filename="case1.cpp" />
+		<Unit filename="case2.cpp" />
+		<Unit filename="case3.cpp" />
+		<Unit filename="case4.cpp" />
+		<Unit filename="case5.cpp" />
+		<Unit filename="hello.cpp" />
+		<Unit filename="judge.cpp" />
+		<Unit filename="ltb.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="one3.cpp" />
+		<Unit filename="one5.cpp" />
+		<Unit filename="registered.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

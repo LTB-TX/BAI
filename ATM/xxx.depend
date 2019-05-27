@@ -1,0 +1,143 @@
+# depslib dependency file v1.0
+1540176497 source:f:\c++\atm\xxx\main.cpp
+	"ltb.h"
+
+1540177063 f:\c++\atm\xxx\ltb.h
+	<iostream>
+	<string>
+	<windows.h>
+	<stdlib.h>
+
+1540176923 source:f:\c++\atm\xxx\hello.cpp
+	"ltb.h"
+
+1541205690 source:f:\刘泰伯\学习资料\c++\atm\main.cpp
+	"ltb.h"
+
+1541590971 f:\刘泰伯\学习资料\c++\atm\ltb.h
+	<iostream>
+	<string>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+
+1541667856 source:f:\刘泰伯\学习资料\c++\atm\hello.cpp
+	"ltb.h"
+
+1541668216 source:f:\刘泰伯\学习资料\c++\atm\registered.cpp
+	"ltb.h"
+
+1541667856 source:f:\刘泰伯\学习资料\c++\atm\insert.cpp
+	"ltb.h"
+
+1541667856 source:f:\刘泰伯\学习资料\c++\atm\user_pudlic.cpp
+	"ltb.h"
+
+1541668216 source:f:\刘泰伯\学习资料\c++\atm\login.cpp
+	"ltb.h"
+
+1541668216 source:f:\刘泰伯\学习资料\c++\atm\judge.cpp
+	"ltb.h"
+
+1541668216 source:f:\刘泰伯\学习资料\c++\atm\service.cpp
+	"ltb.h"
+
+1541668216 source:f:\刘泰伯\学习资料\c++\atm\case1.cpp
+	"ltb.h"
+
+1541668216 source:f:\刘泰伯\学习资料\c++\atm\case2.cpp
+	"ltb.h"
+
+1541668338 source:f:\刘泰伯\学习资料\c++\atm\case3.cpp
+	"ltb.h"
+
+1541209506 source:f:\刘泰伯\学习资料\c++\atm\one3.cpp
+	"ltb.h"
+
+1541668262 source:f:\刘泰伯\学习资料\c++\atm\case4.cpp
+	"ltb.h"
+
+1541668262 source:f:\刘泰伯\学习资料\c++\atm\case5.cpp
+	"ltb.h"
+
+1541668262 source:f:\刘泰伯\学习资料\c++\atm\one5.cpp
+	"ltb.h"
+
+1541668332 source:f:\刘泰伯\学习资料\c++\atm\management.cpp
+	"ltb.h"
+
+1541668332 source:f:\刘泰伯\学习资料\c++\atm\modify.cpp
+	"ltb.h"
+
+1541668216 source:f:\刘泰伯\学习资料\c++\atm\p_input.cpp
+	"ltb.h"
+
+1543318990 source:f:\ltb_tx\studa\c++\atm\case1.cpp
+	"ltb.h"
+
+1543323076 f:\ltb_tx\studa\c++\atm\ltb.h
+	<iostream>
+	<string>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<ctime>
+	<stdio.h>
+
+1543305926 source:f:\ltb_tx\studa\c++\atm\case2.cpp
+	"ltb.h"
+
+1541668338 source:f:\ltb_tx\studa\c++\atm\case3.cpp
+	"ltb.h"
+
+1543309998 source:f:\ltb_tx\studa\c++\atm\case4.cpp
+	"ltb.h"
+
+1543023028 source:f:\ltb_tx\studa\c++\atm\case5.cpp
+	"ltb.h"
+
+1543303137 source:f:\ltb_tx\studa\c++\atm\hello.cpp
+	"ltb.h"
+
+1543316984 source:f:\ltb_tx\studa\c++\atm\insert.cpp
+	"ltb.h"
+
+1543303727 source:f:\ltb_tx\studa\c++\atm\judge.cpp
+	"ltb.h"
+
+1543304321 source:f:\ltb_tx\studa\c++\atm\login.cpp
+	"ltb.h"
+
+1542592985 source:f:\ltb_tx\studa\c++\atm\main.cpp
+	"ltb.h"
+
+1543304321 source:f:\ltb_tx\studa\c++\atm\management.cpp
+	"ltb.h"
+
+1543140783 source:f:\ltb_tx\studa\c++\atm\modify.cpp
+	"ltb.h"
+
+1543311754 source:f:\ltb_tx\studa\c++\atm\one3.cpp
+	"ltb.h"
+
+1542721363 source:f:\ltb_tx\studa\c++\atm\one5.cpp
+	"ltb.h"
+
+1542596538 source:f:\ltb_tx\studa\c++\atm\p_input.cpp
+	"ltb.h"
+
+1543318174 source:f:\ltb_tx\studa\c++\atm\registered.cpp
+	"ltb.h"
+
+1543318210 source:f:\ltb_tx\studa\c++\atm\service.cpp
+	"ltb.h"
+
+1543304321 source:f:\ltb_tx\studa\c++\atm\user_pudlic.cpp
+	"ltb.h"
+
+1543279903 source:f:\ltb_tx\studa\c++\atm\bill.cpp
+	"ltb.h"
+
+1543112016 source:f:\ltb_tx\studa\c++\atm\bill1.cpp
+	"ltb.h"
+
